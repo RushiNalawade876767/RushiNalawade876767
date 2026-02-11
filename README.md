@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **rnalwade0@gmailcom** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** 
+- 🔭 **I’m currently working on: MERN Technogies and related projects
 - 🌱 **I’m currently learning:** Backend services in details
 - 👯 **I’m looking to collaborate on:** Any Mern related services
 - 🤔 **I’m looking for help with:** Backend Services
