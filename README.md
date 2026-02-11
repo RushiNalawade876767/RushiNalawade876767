@@ -1,16 +1,56 @@
-# 💫 Hi 👋, I'm Rushikesh Nalawade
-**A passionate Software Engineer and MERN STACK DEVELOPER || FullStack_developer || Pune , India**
+# Hi 👋 I'm Rushikesh Nalawade  
 
-Email Me 👉 ✉️ **rnalwade0@gmailcom** For Collaboration/Project or Anything Else. 😊😊
+### Software Engineer | MERN Stack Developer  
+📍 Pune, India  
 
-- 🔭 **I’m currently working on: MERN Technogies and related projects
-- 🌱 **I’m currently learning:** Backend services in details
-- 👯 **I’m looking to collaborate on:** Any Mern related services
-- 🤔 **I’m looking for help with:** Backend Services
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** rnalwade0@gmail.com
-- 😄 **Pronouns:** Rushi 
-- ⚡ **Fun fact:** Innovation is new way to sustain..!!!
+Passionate Full Stack Developer focused on building scalable web applications using the MERN stack.  
+Currently deep-diving into backend architecture, APIs, and production-ready systems.
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on: **MERN stack projects**
+- 🌱 Learning: **Backend services, system design & scalable APIs**
+- 👯 Open to collaborate on: **Full Stack / MERN projects**
+- 💬 Ask me about: **React, Node.js, MongoDB, Express**
+- 📫 Reach me at: **rnalwade0@gmail.com**
+
+---
+
+## 💻 Tech Stack
+
+**Frontend:**  
+React.js • Next.js • Redux • Tailwind CSS • Bootstrap • HTML5 • CSS3 • JavaScript • TypeScript  
+
+**Backend:**  
+Node.js • Express.js • REST APIs • JWT Authentication  
+
+**Database:**  
+MongoDB • MySQL • SQLite  
+
+**Tools & DevOps:**  
+Git • GitHub • Postman • AWS • Vercel • Render • Jenkins  
+
+---
+
+## 📊 GitHub Stats
+
+![Rushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RushiNalawade876767&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushiNalawade876767&layout=compact&theme=default)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/RushikeshNalawade
+- 📧 Email: rnalwade0@gmail.com
+
+---
+
+⭐ *“Innovation is the new way to sustain.”*
+
 
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
