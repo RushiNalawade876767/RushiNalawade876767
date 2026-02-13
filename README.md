@@ -30,7 +30,7 @@ I focus on writing maintainable code, understanding fundamentals, and deploying 
 ---
 ## Journey
 
-* Started programming with **C and Java fundamentals**
+* Started programming with **java and Javascript fundamentals**
 * Learned **Data Structures & Algorithms** for problem solving
 * Built frontend projects to understand UI/UX
 * Transitioned to **MERN stack full-stack development**
