@@ -1,64 +1,76 @@
-# Rushikesh Nalawade
+<!-- HEADER BANNER -->
 
-**Full-Stack Developer (MERN)** · Pune, India
+<div align="center">
 
-I build scalable, production-ready web applications with a focus on backend architecture, APIs, and clean code.
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0F172A,50:1D4ED8,100:7C3AED&text=Rushikesh%20Nalawade&fontSize=42&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn&stroke=64748B&strokeWidth=1" width="100%" alt="Rushikesh Nalawade banner"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-nalawade876767/)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/RushiNalawade01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rnalwade0@gmail.com)
+### Full-Stack Developer · MERN Stack
+
+Building practical web applications with clean code and reliable backend systems.
+
+<a href="https://www.linkedin.com/in/rushikesh-nalawade876767/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://x.com/RushiNalawade01"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a> <a href="mailto:rnalwade0@gmail.com"><img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
 
 ---
 
-## About
+### About Me
 
-Full-stack developer experienced in designing REST APIs, authentication systems, and database-driven applications with Node.js, Express.js, and MongoDB. On the frontend, I build responsive interfaces with React.js and modern UI frameworks.
+I'm a full-stack developer focused on building web applications using React, Node.js, Express, and MongoDB.
 
-I care about maintainable code, strong fundamentals, and shipping real-world applications.
+I enjoy working on backend logic, REST APIs, authentication, and database-driven applications while continuously improving my development skills.
 
-## Tech Stack
+* 📍 Pune, India
+* 💻 Focused on full-stack and backend development
+* 🌱 Learning system design and scalable architecture
+* 🎯 Interested in building real-world products
 
-**Languages** &nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+### Tech Stack
 
-**Frontend** &nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & Databases** &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Tools & Deployment** &nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
-## Current Focus
-
-- Backend performance optimization
-- Scalable architecture and system design
-- Advanced data structures and algorithms
-- Production deployment workflows
-
-## GitHub Stats
+**Languages**
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RushiNalawade876767&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushiNalawade876767&theme=transparent&hide_border=true&layout=compact" alt="Top languages" />
+<img src="https://skillicons.dev/icons?i=java,js,ts" alt="Java, JavaScript and TypeScript"/>
+</p>
+
+**Frontend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css" alt="Frontend technologies"/>
+</p>
+
+**Backend & Databases**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and database technologies"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+</p>
+
+**Tools & Deployment**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel" alt="Development tools"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render"/>
 </p>
 
 ---
 
-*Write clean code. Build real systems. Keep learning.*
+### GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RushiNalawade876767&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushiNalawade876767&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=RushiNalawade876767&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*Build. Learn. Ship. Repeat.*
+
+</div>
