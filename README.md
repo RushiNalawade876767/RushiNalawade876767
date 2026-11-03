@@ -20,10 +20,10 @@ I'm a full-stack developer focused on building web applications using React, Nod
 
 I enjoy working on backend logic, REST APIs, authentication, and database-driven applications while continuously improving my development skills.
 
-* 📍 Pune, India
-* 💻 Focused on full-stack and backend development
-* 🌱 Learning system design and scalable architecture
-* 🎯 Interested in building real-world products
+* Pune, India
+* Focused on full-stack and backend development
+*  Learning system design and scalable architecture
+* Interested in building real-world products
 
 ### Tech Stack
 
