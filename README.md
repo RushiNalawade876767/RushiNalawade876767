@@ -1,64 +1,51 @@
-Hi, I'm Rushikesh Nalawade 👋
+Rushikesh Nalawade
 
 Full-Stack Developer | Backend-Focused | MERN Stack
 
-I'm a Computer Engineering student and aspiring software developer focused on building scalable web applications and reliable backend systems.
+Building practical web applications with a focus on clean code, scalable backend systems, and seamless user experiences.
 
-I enjoy solving problems, designing REST APIs, working with databases, and building practical products.
+📍 Pune, India · 🎓 B.E. Information Technology
 
-- 📍 Pune, India
-- 🎓 B.E. in Information Technology
-- 💻 Focused on Full-Stack & Backend Development
-- 🌱 Currently exploring System Design, TypeScript, and scalable backend architecture
-- 🎯 Interested in building real-world products and engineering solutions
+"LinkedIn" (https://www.linkedin.com/in/rushikesh-nalawade876767/) · "GitHub" (https://github.com/RushiNalawade876767) · "X" (https://x.com/RushiNalawade01) · "Email" (mailto:rnalwade0@gmail.com)
 
 ---
+
+About Me
+
+- 💻 Interested in full-stack engineering and backend development.
+- ⚙️ Enjoy building REST APIs, authentication systems, and database-driven applications.
+- 🌱 Currently exploring system design and scalable architecture.
+- 🚀 Focused on learning, building, and shipping real-world projects.
 
 Tech Stack
 
 Languages
-
-Java · JavaScript · TypeScript
+"Java" "JavaScript" "TypeScript"
 
 Frontend
+"React" "Redux" "Tailwind CSS" "HTML" "CSS" "Bootstrap"
 
-React.js · Redux · HTML · CSS · Tailwind CSS · Bootstrap
-
-Backend
-
-Node.js · Express.js · REST APIs · JWT Authentication
-
-Databases
-
-MongoDB · MySQL
+Backend & Database
+"Node.js" "Express.js" "MongoDB" "MySQL" "JWT"
 
 Tools & Platforms
-
-Git · GitHub · Postman · Docker · AWS · Vercel · Render
-
----
+"Git" "GitHub" "Postman" "Docker" "AWS" "Vercel" "Render"
 
 Featured Projects
 
-WanderLust — Full-Stack Web Application
+Project| Description
+"WanderLust" (https://github.com/RushiNalawade876767/Wanderlust-Full-Stack-Project)| Full-stack web application with authentication and database integration.
+"Zerodha Clone" (https://github.com/RushiNalawade876767)| Frontend-focused trading platform clone.
+"Spotify Clone" (https://github.com/RushiNalawade876767)| Music streaming interface clone.
 
-A full-stack application focused on property listings, authentication, and database-driven functionality.
+GitHub Activity
 
-- "GitHub Repository" (https://github.com/RushiNalawade876767/Wanderlust-Full-Stack-Project)
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=RushiNalawade876767&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
 
-More projects
-
-- "Explore my repositories" (https://github.com/RushiNalawade876767?tab=repositories)
-
----
-
-Connect With Me
-
-- "LinkedIn" (https://www.linkedin.com/in/rushikesh-nalawade876767/)
-- "GitHub" (https://github.com/RushiNalawade876767)
-- "X" (https://x.com/RushiNalawade01)
-- "Email" (mailto:rnalwade0@gmail.com)
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=RushiNalawade876767&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
-Building. Learning. Improving.
+<p align="center">
+  <i>Build with purpose. Learn continuously. Ship consistently.</i>
+</p>
