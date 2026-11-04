@@ -1,30 +1,64 @@
-# Rushikesh Nalawade
+Hi, I'm Rushikesh Nalawade 👋
 
-Full-stack developer (MERN) based in Pune, India. I build web applications with clean code and reliable backend systems.
+Full-Stack Developer | Backend-Focused | MERN Stack
 
-[LinkedIn](https://www.linkedin.com/in/rushikesh-nalawade876767/) · [X](https://x.com/RushiNalawade01) · [Email](mailto:rnalwade0@gmail.com)
+I'm a Computer Engineering student and aspiring software developer focused on building scalable web applications and reliable backend systems.
+
+I enjoy solving problems, designing REST APIs, working with databases, and building practical products.
+
+- 📍 Pune, India
+- 🎓 B.E. in Information Technology
+- 💻 Focused on Full-Stack & Backend Development
+- 🌱 Currently exploring System Design, TypeScript, and scalable backend architecture
+- 🎯 Interested in building real-world products and engineering solutions
 
 ---
 
-## About
+Tech Stack
 
-- Building web apps with React, Node.js, Express, and MongoDB
-- Focused on REST APIs, authentication, and database-driven applications
-- Currently learning system design and scalable architecture
+Languages
 
-## Tech Stack
+Java · JavaScript · TypeScript
 
-| | |
-|---|---|
-| **Languages** | Java, JavaScript, TypeScript |
-| **Frontend** | React, Redux, Tailwind CSS, Bootstrap, HTML, CSS |
-| **Backend** | Node.js, Express, JWT |
-| **Databases** | MongoDB, MySQL |
-| **Tools** | Git, GitHub, Postman, Vercel, Render |
+Frontend
 
-## GitHub Stats
+React.js · Redux · HTML · CSS · Tailwind CSS · Bootstrap
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RushiNalawade876767&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushiNalawade876767&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
-</p>
+Backend
+
+Node.js · Express.js · REST APIs · JWT Authentication
+
+Databases
+
+MongoDB · MySQL
+
+Tools & Platforms
+
+Git · GitHub · Postman · Docker · AWS · Vercel · Render
+
+---
+
+Featured Projects
+
+WanderLust — Full-Stack Web Application
+
+A full-stack application focused on property listings, authentication, and database-driven functionality.
+
+- "GitHub Repository" (https://github.com/RushiNalawade876767/Wanderlust-Full-Stack-Project)
+
+More projects
+
+- "Explore my repositories" (https://github.com/RushiNalawade876767?tab=repositories)
+
+---
+
+Connect With Me
+
+- "LinkedIn" (https://www.linkedin.com/in/rushikesh-nalawade876767/)
+- "GitHub" (https://github.com/RushiNalawade876767)
+- "X" (https://x.com/RushiNalawade01)
+- "Email" (mailto:rnalwade0@gmail.com)
+
+---
+
+Building. Learning. Improving.
